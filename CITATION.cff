@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Top-Down Feasibility Decomposition Model (TDF Model)"
+message: "If you use this work, please cite it as below."
+type: generic
+
+authors:
+  - family-names: Nicola Cainelli
+    given-names: ""
+    affiliation: "myobject srls"
+    email: ""
+
+abstract: >
+  The Top-Down Feasibility Decomposition Model (TDF Model) is a structured,
+  top-down method for early feasibility analysis of complex projects.
+  It is based on progressive functional decomposition, explicit decision
+  checkpoints, and early project termination when critical requirements
+  are not feasible.
+
+version: 1.0.0
+date-released: 2026-01-01
+
+license: CC-BY-4.0
+
+repository-code: "https://github.com/nicola-myo/tdf-model"
