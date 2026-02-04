@@ -119,7 +119,7 @@ The TDF Model follows a **conservative release policy** based on Semantic Versio
 - Each release corresponds to a stable, citable state of the model
 
 Details are documented in:
-- `docs/release-policy.md`
+- `release-policy.md`
 
 ---
 
